@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1 align="center">Castlevania</h1>
 
 <p align="center">
@@ -23,3 +24,7 @@ See the Issues Tab.
 
 ## Version History
 The **master** branch encompassed all changes during development. This project is discontinued.
+=======
+# castlevania_estructura_datos
+Proyecto universitario para el curso de Estructura de Datos y algoritmos
+>>>>>>> 575f6f4e93af386fdf8da64af919d500e7b19fec
